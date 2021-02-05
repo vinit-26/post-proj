@@ -1,0 +1,14 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:active,
+a:hover {
+  color: lightgrey;
+}
+
+.nav-caption {
+  display: inline-block;
+  padding: 6px;
+}
